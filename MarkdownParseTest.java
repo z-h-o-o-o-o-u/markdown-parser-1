@@ -1,3 +1,5 @@
+// a trivial change; yet another change
+
 import static org.junit.Assert.*;
 import org.junit.*;
 
