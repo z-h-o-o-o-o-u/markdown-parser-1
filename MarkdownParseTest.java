@@ -1,4 +1,4 @@
-// a trivial change; yet another change
+// a trivial change
 
 import static org.junit.Assert.*;
 import org.junit.*;
